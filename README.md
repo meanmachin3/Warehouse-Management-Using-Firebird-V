@@ -21,3 +21,8 @@
     * Robot repeats the above protocol till it picks up and deposits all the valid packages on the arena.
     * After depositing the last package at the appropriate zone, the robot sounds the buzzer continuously.
     * Sound of the continuous buzzer indicates END of task.
+
+## Video Link
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Th7MJ_w13_M
+" target="_blank"><img src="http://img.youtube.com/vi/Th7MJ_w13_M/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
